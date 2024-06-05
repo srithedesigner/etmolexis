@@ -48,7 +48,7 @@ import okhttp3.ResponseBody
 import okio.IOException
 import java.lang.Exception
 
-val apiKey = "AIzaSyBPj8F7K6dc77tgmHdaZGFyLUMmFu469Dg";
+val apiKey = `YOUR_GEMINI_API_KEY`
 
 var word = ""
 var prompt = ""
